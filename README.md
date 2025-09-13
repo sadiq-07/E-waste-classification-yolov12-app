@@ -20,3 +20,4 @@ This Android application performs **real-time object detection** on e-waste item
 1. Clone the repository:
    ```bash
   git remote add origin https://github.com/sadiq-07/E-waste-classification-yolov12-app.git
+```
